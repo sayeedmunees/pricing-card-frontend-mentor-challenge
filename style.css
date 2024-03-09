@@ -38,7 +38,7 @@ h2, h4, p{
 #bottom-left-section{
   display: inline-block;
   width: 100%;
-  height: 100%;
+/*   height: 100%; */
   background-color: #2bb4b1;
   vertical-align: top;
   padding: 30px;
@@ -47,7 +47,7 @@ h2, h4, p{
 #bottom-right-section{
   display: inline-block;
   width: 100%;
-  height: 100%;
+/*   height: 100%; */
   background-color: #48bfbd;
   vertical-align: top;
   padding: 30px;
