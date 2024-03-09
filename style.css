@@ -18,6 +18,8 @@ h2, h4, p{
 }
 
 #card{
+  width: 550px;
+  height: 400px;
   box-shadow: -1px 2px 29px -3px rgba(0,0,0,0.6);
   border-radius: 7px;
   overflow: hidden;
@@ -37,8 +39,8 @@ h2, h4, p{
 
 #bottom-left-section{
   display: inline-block;
-  width: 100%;
-/*   height: 100%; */
+  width: 50%;
+  height: 100%;
   background-color: #2bb4b1;
   vertical-align: top;
   padding: 30px;
@@ -46,8 +48,8 @@ h2, h4, p{
 
 #bottom-right-section{
   display: inline-block;
-  width: 100%;
-/*   height: 100%; */
+  width: 50%;
+  height: 100%;
   background-color: #48bfbd;
   vertical-align: top;
   padding: 30px;
@@ -124,12 +126,12 @@ ul{
   opacity: 0.8;
 }
 
-@media (min-width: 576px){
+@media (max-width: 576px){
   #card {
-    width: 550px;
-    height: 400px;
+    width: auto;
+    height: auto;
   }
   #bottom-left-section, #bottom-right-section{
-    width: 50%;
+    width: 100%;
   }
 }
