@@ -133,5 +133,6 @@ ul{
   }
   #bottom-left-section, #bottom-right-section{
     width: 50%;
+    height: 100%;
   }
 }
