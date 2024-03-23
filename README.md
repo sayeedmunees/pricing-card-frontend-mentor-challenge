@@ -1,5 +1,5 @@
 # Single price grid component - Solution
-An Implementation of [Single price grid component challenge by Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+An Implementation of [Single price grid component challenge by Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).  The challenge was to develop the given single price grid component, ensuring optimal layout on different screen sizes. 
 
 ## Table of contents
 
@@ -27,7 +27,7 @@ An Implementation of [Single price grid component challenge by Frontend Mentor](
 
 - Design preview of the Single price grid component for desktop
 
-![Design preview of the Single price grid component for desktop](./screenshots/Screenshot-desktop.png)
+![Design preview of the Single price grid component for desktop](./screenshots/Screenshot-desktop-design.png)
 
 - Design preview of the Single price grid component for Mobile
 
@@ -46,7 +46,7 @@ An Implementation of [Single price grid component challenge by Frontend Mentor](
 
 - Semantic HTML5 markup
 - CSS custom properties
-- CSS Flex
+- CSS Flexbox
 - Desktop-first workflow
 
 ### What I learned
