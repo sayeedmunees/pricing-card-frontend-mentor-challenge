@@ -6,11 +6,11 @@ html {
 }
 
 body {
-  padding: 20px;
   background-color: #e7eef7;
   display: flex;
   justify-content: center;
-  align-content: center;
+  align-items: center;
+  height: 100vh;
 }
 
 h2,
