@@ -1,5 +1,5 @@
 # Single price grid component - Solution
-An Implementation of [Single price grid component challenge by Frontend Mentor](https://www.frontendmentor.io/challenges/testimonials-grid-section-Nnw6J7Un7).  The challenge was to develop the given single price grid component, ensuring optimal layout on different screen sizes. 
+An Implementation of [Single price grid component challenge by Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc).  The challenge was to develop the given single price grid component, ensuring optimal layout on different screen sizes. 
 
 ## Table of contents
 
