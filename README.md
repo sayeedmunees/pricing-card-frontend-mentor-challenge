@@ -69,7 +69,7 @@ Throughout this project, I've gained valuable insights into developing responsiv
 
 - [Frontend Mentor](https://www.frontendmentor.io/challenges/single-price-grid-component-5ce41129d0ff452fec5abbbc) - Got this challenge from Frontend Mentor,along with workfiles like required designs, icons and other files.
 
-- [MDN Docs](https://developer.mozilla.org/en-US/) - Here's another useful resourse, which is the MDN documentation itself. It helped me to find, understand and use code snipped that i didn't knew before.
+- [MDN Docs](https://developer.mozilla.org/en-US/) - Here's another useful resourse, which is the MDN web Docs itself. It helped me to find, understand and to use code snippets that i didn't knew before.
 
 
 ## Author
